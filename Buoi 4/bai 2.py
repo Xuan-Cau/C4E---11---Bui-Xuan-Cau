@@ -16,7 +16,6 @@ fuirt = [
     {"name" : "avocado" ,
     "price" : 3
     } ]
-
 print (fuirt)
 
 strd =[]
