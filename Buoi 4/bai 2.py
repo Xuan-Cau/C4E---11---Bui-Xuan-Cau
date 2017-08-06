@@ -48,10 +48,6 @@ def choose() :
         print ("your total " ,"\n", strd )
         print ("tong tien your bill" , tong)
         
-##            else :
-##                
-##                choose ()
-
         
 while contin!="oki":
     choose ()
